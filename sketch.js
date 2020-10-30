@@ -9,6 +9,7 @@ function setup() {
   movingRect = createSprite(400,200,80,30);
   movingRect.shapeColor = "green";
   movingRect.debug = true;
+  //adding random data to be pulled by Krishnam
 }
 
 function draw() {
